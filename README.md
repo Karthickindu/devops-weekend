@@ -1,3 +1,1 @@
-Hellp git 
-i am learning git for devops
-
+I am README file 
